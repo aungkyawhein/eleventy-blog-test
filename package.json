@@ -47,7 +47,7 @@
     "@ampproject/toolbox-optimizer": "^2.9.0",
     "@saschazar/wasm-avif": "^1.0.0",
     "clean-css": "^4.2.3",
-    "concurrently": "^5.2.0",
+    "concurrently": "^8.2.0",
     "csp-hash-generator": "0.0.3",
     "csso": "^4.0.3",
     "datauri": "^3.0.0",
